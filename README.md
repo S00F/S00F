@@ -9,7 +9,8 @@ I'm Sofien a Full Stack Developer and I Spend most of time coding
 
 - 📫 How to reach me: soofinco.m@gmail.com.
 - 😄 Pronouns: sof_mn
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games and go to the GYM from time to time
+.
 
 #### Top Technologies
 
