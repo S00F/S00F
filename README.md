@@ -10,7 +10,7 @@ I'm a Full Stack Developer and I spend most of time coding
 
 .
 
-#### Top Technologies
+#### Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
